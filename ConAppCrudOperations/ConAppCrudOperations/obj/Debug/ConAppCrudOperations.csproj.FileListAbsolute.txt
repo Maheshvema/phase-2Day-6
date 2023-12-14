@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-6 Assignment\ConAppCrudOperations\ConAppCrudOperations\bin\Debug\ConAppCrudOperations.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-6 Assignment\ConAppCrudOperations\ConAppCrudOperations\bin\Debug\ConAppCrudOperations.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-6 Assignment\ConAppCrudOperations\ConAppCrudOperations\bin\Debug\ConAppCrudOperations.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-6 Assignment\ConAppCrudOperations\ConAppCrudOperations\obj\Debug\ConAppCrudOperations.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-6 Assignment\ConAppCrudOperations\ConAppCrudOperations\obj\Debug\ConAppCrudOperations.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-6 Assignment\ConAppCrudOperations\ConAppCrudOperations\obj\Debug\ConAppCrudOperations.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\Phase-2\Day-6 Assignment\ConAppCrudOperations\ConAppCrudOperations\obj\Debug\ConAppCrudOperations.pdb
